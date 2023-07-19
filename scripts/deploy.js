@@ -5,8 +5,8 @@ async function main () {
   console.log('Deploying StarterUpgradeable...');
   
   const salePrice = 0.001 * 10 ** 18;
-  const baseURI = "https://bafybeif76n3fsq55yzn5aewdwolaszl2w6azipfybkmf6m6r5ucqommmfm.ipfs.nftstorage.link/";
-  const contractURI = "";
+  const baseURI = "https://bafkreicxq6qhnjuprktza3wkamb2usj23u3qwoxinad7ksr3kwebczfhiy.ipfs.nftstorage.link/";
+  const contractURI = "https://bafkreiahdril4un5iyp3jsme5w7huhhsfckudozfeou3m7sltkv6cgo7w4.ipfs.nftstorage.link/";
 
   const initArgs = {
     name: 'Ninja Starter', 
