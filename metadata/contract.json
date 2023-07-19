@@ -1,8 +1,8 @@
 {
-    "name": "Behind the Curtain",
-    "description": "",
-    "image": "https://bafkreia4it4shcdy4mxoj7wgfufsfa2taljbn7wyfkovw5shcrm5a4vkhy.ipfs.nftstorage.link/",
-    "external_link": "https://www.sovereigndao.com/",
+    "name": "Ninjacode Starter",
+    "description": "Upgradeable ERC-721 NFT contract starter project",
+    "image": "https://bafybeif76n3fsq55yzn5aewdwolaszl2w6azipfybkmf6m6r5ucqommmfm.ipfs.nftstorage.link/",
+    "external_link": "https://github.com/dmulvi/evm-721-starter-upgradeable",
     "seller_fee_basis_points": 0,
     "fee_recipient": ""
   }
